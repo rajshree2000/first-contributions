@@ -24,6 +24,7 @@
 - Sean Ang (https://github.com/seanaxn1135)
 - TigerBoy!
 - Chuch Nichols 
+- Rajshree Mondal
 - Yedukrishna K R
 - Lloyd Warren (https://github.com/law880)
 - Hyma Malladi
